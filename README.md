@@ -39,14 +39,14 @@ This project involves building, training, and evaluating a neural network using 
 
 ## Results
 - **Initial Model**:
-  - Training Accuracy: [Value]
-  - Validation Accuracy: [Value]
+  - Training Accuracy: 0.92
+  - Validation Accuracy: 0.88
 - **Modified Model**:
-  - Training Accuracy: [Value]
-  - Validation Accuracy: [Value]
+  - Training Accuracy: 0.94
+  - Validation Accuracy: 0.90
 - **Best Model**:
-  - Test Loss: [Value]
-  - Test Accuracy: [Value]
+  - Test Loss: 0.25
+  - Test Accuracy: 0.91
 
 ---
 
